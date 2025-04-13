@@ -1,9 +1,9 @@
-# manen-java-mcp
+# MAVEN JAVA MCP
 
 ## Project Structure
 
 ```
-manen-java-mcp/
+maven-java-mcp/
 ├── .github/
 │   └── workflows/
 │       ├── ci.yml
